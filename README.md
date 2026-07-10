@@ -1,5 +1,5 @@
 # CG Hybrid Monomer System
-[TOC.pdf](https://github.com/user-attachments/files/29896426/TOC.pdf)
+<img width="1461" height="1247" alt="TOC" src="https://github.com/user-attachments/assets/44d606b4-5062-47ec-a45d-5a0a32029dbb" />
 
 Coarse-grained molecular dynamics (LAMMPS) code for simulating a hybrid epoxy-acrylate dual-cure polymer network.
 
