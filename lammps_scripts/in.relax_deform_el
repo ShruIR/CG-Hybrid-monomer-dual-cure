@@ -44,4 +44,4 @@ fix             1 all npt temp 1.0 1.0 0.5 iso 1 1 5
 run             100000
 unfix           1
 
-write_data      relax_deform_el.dat
+write_data      relax_deform_0.dat
